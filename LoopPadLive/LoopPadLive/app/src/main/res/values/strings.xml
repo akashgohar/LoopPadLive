@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LoopPad Live</string>
+    <string name="bpm">BPM</string>
+    <string name="quantization">Quantization</string>
+    <string name="scene">Scene</string>
+    <string name="loop">Loop</string>
+    <string name="break_mode">Break</string>
+    <string name="import_folder">Import Folder</string>
+    <string name="new_project">New Project</string>
+    <string name="save_project">Save Project</string>
+    <string name="settings">Settings</string>
+    <string name="mixer">Mixer</string>
+    <string name="volume">Volume</string>
+    <string name="pan">Pan</string>
+    <string name="pitch">Pitch</string>
+    <string name="mute">Mute</string>
+    <string name="solo">Solo</string>
+    <string name="stop_all">Stop All</string>
+</resources>
